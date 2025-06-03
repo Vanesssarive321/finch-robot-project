@@ -8,7 +8,7 @@ public class FinchFinal {
 
 
         // WWhat do you want your bird to do?
-
+        bird.setMove("F", 5, 100);
 
 
 
