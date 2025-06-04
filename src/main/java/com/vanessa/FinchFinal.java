@@ -4,17 +4,15 @@ import com.birdbrain.Finch;
 
 public class FinchFinal {
     public static void main(String[] args) {
-        Finch bird = new Finch();
+        SymbolFinch bird = new SymbolFinch();
 
 
         // WWhat do you want your bird to do?
-        bird.setMove("F", 5, 100);
+        bird.drawDollarSign();
 
 
-
-
-
-        bird.stopAll();
+        bird.stop();
         bird.disconnect();
     }
 }
+
