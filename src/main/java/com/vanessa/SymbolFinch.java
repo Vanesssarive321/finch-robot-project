@@ -56,5 +56,18 @@ public class SymbolFinch extends Finch {
             setTurn("R",32,100);
         }
     }
+
+    public void drawUpArrow() {
+        setMove("F",5,100);
+        setTurn("L",140,100);
+        setMove("F",5, 100);
+        setTurn("R",90,100);
+    }
+    public void drawCircle(){
+        setMove("F",1,50);
+        drawCurve("top");
+        pause(2);
+        setTurn("L",15,40);
+    }
     
 }
