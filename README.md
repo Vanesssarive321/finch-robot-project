@@ -19,7 +19,7 @@ Your program must demonstrate your understanding of Java programming concepts fr
 - Practice technical communication through presentations and documentation
 
 ## Description of design choices
-
+l Choose to do a Symbol Finch
 ## Challenges faced and solutions
 
 ## Future enhancements

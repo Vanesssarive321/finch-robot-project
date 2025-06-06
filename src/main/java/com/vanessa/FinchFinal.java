@@ -8,7 +8,7 @@ public class FinchFinal {
 
 
         // WWhat do you want your bird to do?
-        bird.drawUpArrow();
+        bird.drawDollarSign();
 
 
         bird.stop();
